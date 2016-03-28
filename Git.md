@@ -5,5 +5,4 @@
 4. git log:打印当前仓库已提交的版本
 5. git diff:查看文件修改
 6. git rm:删除文件,工作区删除
-
-
+7. git check -b <name>:创建并切换到name分支
